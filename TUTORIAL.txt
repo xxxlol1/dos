@@ -1,0 +1,17 @@
+== TUTORIAL ==
+
+1 - ABRA O CMD
+2 - DIGITE OS SEGUINTES CODIGOS
+3 - CODIGOS :
+
+cd Desktop
+cd Pack Script
+exploit.py -t IP DO SITE -r 256 -p 80
+
+==TUTORIAL PEGAR IP DO SITE==
+
+1 - ABRA O CMD
+2 - DIGITE O SEGUINTE CODIGO
+3 - CODIGO :
+
+ping -t www.site-aqui.com
